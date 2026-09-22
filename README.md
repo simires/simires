@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩🏽‍💻 Sobre mim
 
 Graduanda em **Engenharia de Software** pela UFC, em transição de carreira para **Análise e Ciência de Dados**. Tenho experiência prática com **Python, Machine Learning, SQL, Excel e Power BI**, aplicados em projetos acadêmicos e pessoais, além de conhecimento sólido em **estatística aplicada à análise de dados**.
 
