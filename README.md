@@ -113,17 +113,6 @@ Disciplinas relevantes: Probabilidade e Estatística, Álgebra Linear, Banco de 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=simires&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=simires&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 💬 Aberta a oportunidades em **Análise e Ciência de Dados** — vamos conversar!
