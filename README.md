@@ -18,8 +18,6 @@
 
 Graduanda em **Engenharia de Software** pela UFC, em transição de carreira para **Análise e Ciência de Dados**. Tenho experiência prática com **Python, Machine Learning, SQL, Excel e Power BI**, aplicados em projetos acadêmicos e pessoais, além de conhecimento sólido em **estatística aplicada à análise de dados**.
 
-Atualmente também sou pesquisadora no **LUDI** (Laboratório de pesquisa e desenvolvimento para Usabilidade, Diversidade e Inclusão), onde trabalho com testes estatísticos, análise e discussão de resultados — já com três artigos publicados.
-
 - 🔭 Atualmente aprofundando conhecimentos em **Machine Learning** e **MLOps**
 - 📫 Como me encontrar: **costasimires@gmail.com**
 
@@ -83,33 +81,6 @@ Análise exploratória, tratamento de dados e comparação de modelos de classif
 
 ---
 
-## 🎓 Formação Acadêmica
-
-**Universidade Federal do Ceará** — Bacharelado em Engenharia de Software
-*Mar 2022 – Jul 2026 · Russas, CE*
-Disciplinas relevantes: Probabilidade e Estatística, Álgebra Linear, Banco de Dados, Inteligência Artificial, Estruturas de Dados
-
----
-
-## 📜 Cursos e Certificações
-
-- 🎯 Data Girls — Bootcamp (Re)Start 2026, Trilha Ciência de Dados
-- 📈 Alura — Imersão em Dados (2026)
-- 🔍 Ada Tech — Análise Exploratória de Dados (2025)
-- 🧪 Atlântico Avanti Bootcamp — Ciência de Dados (2024)
-
----
-
-## 🌟 Experiências Extracurriculares
-
-| Papel | Instituição | Período |
-|---|---|---|
-| Pesquisadora | LUDI (Usabilidade, Diversidade e Inclusão) | Jan 2025 – presente |
-| Voluntária | Meninas Digitais do Vale | Jan 2025 – Jul 2026 |
-| Monitora Bolsista (Álgebra Linear) | UFC Campus Russas | Mar 2024 – Nov 2024 |
-| Monitora Voluntária | Laboratório de Estrutura de Dados (LED) | Ago 2023 – Set 2024 |
-
----
 
 <div align="center">
 
