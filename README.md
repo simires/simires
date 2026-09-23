@@ -21,8 +21,6 @@ Graduanda em **Engenharia de Software** pela UFC, em transição de carreira par
 Atualmente também sou pesquisadora no **LUDI** (Laboratório de pesquisa e desenvolvimento para Usabilidade, Diversidade e Inclusão), onde trabalho com testes estatísticos, análise e discussão de resultados — já com três artigos publicados.
 
 - 🔭 Atualmente aprofundando conhecimentos em **Machine Learning** e **MLOps**
-- 🌱 Trilha de Ciência de Dados na **Data Girls (Re)Start**
-- 🤝 Voluntária no projeto **Meninas Digitais do Vale**, incentivando meninas nas áreas de STEM
 - 📫 Como me encontrar: **costasimires@gmail.com**
 
 ---
